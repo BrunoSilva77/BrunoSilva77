@@ -1,6 +1,11 @@
+<!-- Banner de Capa -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Bruno%20Henrique%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 # 👋 Olá, eu sou o Bruno Henrique  
 
-💻 **Full-Stack Developer | Estudante de ADS (Fatec Araçatuba)**  
+💻 **Front-end Developer | Estudante de ADS (Fatec Araçatuba)**  
 🚀 Apaixonado por tecnologia, desenvolvimento web e mobile.  
 🎯 Buscando evoluir como desenvolvedor fullstack e contribuir em projetos inovadores.  
 
@@ -23,11 +28,11 @@
 
 ## 📂 Projetos em Destaque  
 
-✨ Confira alguns dos meus projetos:  
+✨ Aqui estão alguns dos meus projetos que você pode conferir no GitHub:  
 
 - 🌐 **Template Website FATEC** → [Repositório](https://github.com/BrunoSilva77/template_website_fatec_ata)  
 - 📱 **Aplicativo Android (MedIA)** → [Repositório](https://github.com/BrunoSilva77/MedIA)  
-- 💻 **Projetos Web** → [Repositório](https://github.com/BrunoSilva77/Site-Pizzaria) 
+- 💻 **Site Pizzaria** → [Repositório](https://github.com/BrunoSilva77/Site-Pizzaria)  
 
 ---
 
@@ -59,4 +64,7 @@
 
 ---
 
-⭐️ Se gostou dos meus projetos, não esqueça de deixar uma ⭐ nos repositórios!
+<!-- Rodapé com efeito onda -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=120&section=footer"/>
+</p>
