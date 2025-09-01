@@ -1,4 +1,3 @@
-<!-- Banner de Capa -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Bruno%20Henrique%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -36,6 +35,14 @@
 
 ---
 
+## 💡 O que estou aprendendo agora  
+
+- 📚 Aprofundando meus conhecimentos em **Java**  
+- 🗄️ Estudando **PostgreSQL** para banco de dados  
+- 🤖 Explorando **Python para criação de uma IA**  
+
+---
+
 ## 🎓 Formação  
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** – Fatec Araçatuba (2023–2026)  
@@ -64,7 +71,6 @@
 
 ---
 
-<!-- Rodapé com efeito onda -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=120&section=footer"/>
 </p>
