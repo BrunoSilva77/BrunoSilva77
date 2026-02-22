@@ -6,7 +6,7 @@
 
 💻 **Front-End Developer | Estudante de ADS (Fatec Araçatuba)**  
 🚀 Apaixonado por tecnologia, desenvolvimento web e mobile.  
-🎯 Buscando evoluir como desenvolvedor fullstack e contribuir em projetos inovadores.  
+🎯 Buscando evoluir como desenvolvedor Front-End e contribuir em projetos inovadores.  
 
 ---
 
