@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Bruno Henrique  
 
-💻 **Full-Stack Developer | Estudante de ADS (Fatec Araçatuba)**  
+💻 **Front-End Developer | Estudante de ADS (Fatec Araçatuba)**  
 🚀 Apaixonado por tecnologia, desenvolvimento web e mobile.  
 🎯 Buscando evoluir como desenvolvedor fullstack e contribuir em projetos inovadores.  
 
